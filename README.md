@@ -41,7 +41,7 @@ O objetivo deste repositório é:
 | **Curva de aprendizado** | Média/Difícil               | Média                         | Fácil                |
 | **Concorrência**         | Threads nativas             | Assíncrono (event loop)       | Limitada             |
 | **Uso no mercado**       | Muito alto                  | Altíssimo                     | Menor, mas relevante |
-| **Framework famoso**     | Spring                      | React / Node.js               | Ruby on Rails        |
+| **Framework famoso**     | Spring                      | React                         | Ruby on Rails        |
 
 ---
 
